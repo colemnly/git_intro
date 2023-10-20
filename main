@@ -1,1 +1,3 @@
 git remote add origin git@github.com:i.galuza/git_intro.git\
+git push -u origin master 
+
